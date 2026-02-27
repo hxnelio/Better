@@ -39,11 +39,13 @@ cd Better
 npm install
 ```
 
+```js
 module.exports = {
     token: "VOTRE_TOKEN_ICI",
     ownerId: "VOTRE_ID_DISCORD",
     supportServeur: "LIEN_DU_SERVEUR_SUPPORT"
 }
+```
 
 # Lancement
 
