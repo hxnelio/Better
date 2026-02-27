@@ -37,7 +37,7 @@ Clonez le dépôt :
 git clone https://github.com/hxnelio/Better.git
 cd Better
 npm install
-
+```
 
 module.exports = {
     token: "VOTRE_TOKEN_ICI",
@@ -46,6 +46,7 @@ module.exports = {
 }
 
 # Lancement
+
 ```
 node .
 node index.js
